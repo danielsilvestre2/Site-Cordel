@@ -1,3 +1,3 @@
 # Site-Cordel
 Link:
-- https://danielsilvestre2.github.io/Site-Cordel/
+- https://danielsilvestre2.github.io/site-cordel/
